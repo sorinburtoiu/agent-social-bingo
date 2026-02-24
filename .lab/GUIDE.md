@@ -54,6 +54,8 @@ DIY: Tour of the project. Try out the game.
 
 See `.github/prompts/setup.prompt.md`.
 
+![alt text](image.png)
+
 ### Task: Auto-generated instructions
 
 **TL;DR:** Instructions guide all agentic codebase interactions, making them more efficient and reliable. Add them early, but make sure to keep them maintained and succinct.
