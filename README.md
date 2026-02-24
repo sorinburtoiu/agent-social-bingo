@@ -5,6 +5,8 @@ Social Bingo game for in-person mixers. Find people who match the questions and 
 <!-- You can remove this message when updating the readme as part of the workshop -->
 👉 **[Follow the Lab Guide](.lab/GUIDE.md)** for instructions on how to set up and customize the game.
 
+📖 **[Social Bingo Game — Workspace Instructions](.github/copilot-instructions.md)** for development setup and project structure(__generated with copilot__).
+
 
 ## Prerequisites
 
