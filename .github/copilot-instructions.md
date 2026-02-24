@@ -11,7 +11,7 @@
 
 ## Quick Start
 ```bash
-npm install          # Install dependencies
+npm install         # Install dependencies
 npm run dev         # Start dev server
 npm run build       # Production build
 npm run lint        # Check code quality
