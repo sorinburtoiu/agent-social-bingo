@@ -1,4 +1,4 @@
-# Soc Ops — Workspace Instructions
+# React - Social Bingo Game — Workspace Instructions
 
 **Project**: Social Bingo game for in-person mixers. Find people who match the questions and get 5 in a row!
 

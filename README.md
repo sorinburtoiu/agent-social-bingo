@@ -1,4 +1,4 @@
-# Soc Ops
+# React - Social Bingo Game
 
 Social Bingo game for in-person mixers. Find people who match the questions and get 5 in a row!
 
