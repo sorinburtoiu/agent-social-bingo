@@ -1,4 +1,4 @@
-# React - Social Bingo Game
+# React Application - Social Bingo Game
 
 > 👉 Created with Visual Studio Code Agents
 
