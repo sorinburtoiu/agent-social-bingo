@@ -43,5 +43,6 @@ Deploys automatically to GitHub Pages on push to `main`.
 - **[VS Code GitHub Copilot Agent Lab](https://dotnet-presentations.github.io/vscode-github-copilot-agent-lab/step.html?step=guide)** — Interactive lab walkthrough for GitHub Copilot agents
 - **[GitHub Code](https://www.youtube.com/code)** — GitHub's official code channel
 - **[Copilot Agent Overview](https://www.youtube.com/watch?v=kZqGsoeP0kU)** — Video introduction to GitHub Copilot agents
+- [Here the lab and orininal game](https://microsoft.github.io/vscode-agent-lab-soc-ops/)
 
 
